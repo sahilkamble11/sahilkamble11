@@ -58,10 +58,9 @@ Welcome to my GitHub profile! I’m currently pursuing B.Tech in Computer Engine
  
 
 ---
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilkamble11&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilkamble11&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahilkamble11&theme=github_dark" />
-
+<a href="https://github.com/sahilkamble11">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilkamble11&theme=dracula&area=true&hide_border=true" />
+</a>
 ---
 
 ## 📊 GitHub Stats  
