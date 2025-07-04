@@ -58,8 +58,9 @@ Welcome to my GitHub profile! I’m currently pursuing B.Tech in Computer Engine
  
 
 ---
-## 🏙️ My GitHub Skyline
-[View My 3D Contribution Graph](https://skyline.github.com/sahilkamble11/2025)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilkamble11&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilkamble11&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahilkamble11&theme=github_dark" />
 
 ---
 
