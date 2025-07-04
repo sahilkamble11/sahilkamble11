@@ -58,10 +58,6 @@ Welcome to my GitHub profile! I’m currently pursuing B.Tech in Computer Engine
  
 
 ---
-<a href="https://github.com/sahilkamble11">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilkamble11&theme=dracula&area=true&hide_border=true" />
-</a>
----
 
 ## 📊 GitHub Stats  
 
