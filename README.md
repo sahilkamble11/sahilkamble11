@@ -4,14 +4,13 @@
 Welcome to my GitHub profile! I’m currently pursuing B.Tech in Computer Engineering at JSPM University, Pune. I enjoy building efficient, user-centric software and exploring technologies that solve real-world problems.
 
 ---
-
-## 💼 About Me
-🔭 Currently working on TFL Assessment Project and TFL E-commerce, gaining hands-on experience in real-world applications
-🏢 Learning and contributing at Transflower Learning Pvt. Ltd., enhancing my practical development skills
-🌱 Exploring Spring Boot, Full Stack Development, MySQL, and REST APIs
-💬 Ask me about: C/C++, Java, File-based Systems, Android Studio, GitHub workflows
-🤝 Open to collaborations and contribution opportunities
-⚡ Fun fact: I often turn daily challenges into quick code solutions
+## 💼 About Me  
+🔭 Currently working on **TFL Assessment Project** and **TFL E-commerce**, gaining hands-on experience in real-world applications  
+🏢 Learning and contributing at **Transflower Learning Pvt. Ltd.**, enhancing my practical development skills  
+🌱 Exploring **Spring Boot**, **Full Stack Development**, **MySQL**, and **REST APIs**  
+💬 Ask me about: **C/C++**, **Java**, **File-based Systems**, **Android Studio**, **GitHub workflows**  
+🤝 Open to **collaborations** and **contribution opportunities**  
+⚡ Fun fact: I often turn daily challenges into quick code solutions  
 
 
 ---
