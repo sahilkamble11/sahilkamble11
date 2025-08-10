@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m currently pursuing B.Tech in Computer Engine
 🌱 Exploring **Spring Boot**, **Full Stack Development**, **MySQL**, and **REST APIs**  
 💬 Ask me about: **C/C++**, **Java**, **File-based Systems**, **Android Studio**, **GitHub workflows**  
 🤝 Open to **collaborations** and **contribution opportunities**  
-⚡ Fun fact: I often turn daily challenges into quick code solutions  
+⚡ Fun fact: I often turn daily challenges into quick code solutions    
 
 
 ---
