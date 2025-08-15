@@ -76,7 +76,7 @@ Welcome to my GitHub profile! I’m currently pursuing B.Tech in Computer Engine
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophy
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sahilkamble11&theme=github-dark&no-frame=true&no-bg=true&margin-w=10)
 
