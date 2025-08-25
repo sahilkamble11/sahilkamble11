@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Sahil Kamble  
+# 👋 Hello, I'm Sahil Bajrang Kamble  
 🎓 Computer Engineering Student | 💻 Aspiring Full Stack Developer | 🚀 Tech Explorer
 
 Welcome to my GitHub profile! I’m currently pursuing B.Tech in Computer Engineering at JSPM University, Pune. I enjoy building efficient, user-centric software and exploring technologies that solve real-world problems.
