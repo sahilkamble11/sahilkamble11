@@ -16,8 +16,6 @@ Welcome to my GitHub profile! I’m currently pursuing B.Tech in Computer Engine
 ⚡ Fun fact: I often turn daily challenges into quick code solutions    
 
 
-
-
 ---
 
 ## 🛠 Technical Skills    
