@@ -72,6 +72,9 @@ Welcome to my GitHub profile! I’m currently pursuing B.Tech in Computer Engine
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkamble11&layout=compact&theme=github_dark&hide_border=true)
 
 ---
+## 🔥 GitHub Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nirjalanaik1706&theme=github-dark&hide_border=true)
 
 
 ---
