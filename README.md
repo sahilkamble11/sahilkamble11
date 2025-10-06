@@ -74,7 +74,7 @@ Welcome to my GitHub profile! I’m currently pursuing B.Tech in Computer Engine
 ---
 ## 🔥 GitHub Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nirjalanaik1706&theme=github-dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sahilkamble11&theme=github-dark&hide_border=true)
 
 
 ---
