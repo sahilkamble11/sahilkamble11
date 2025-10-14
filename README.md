@@ -66,7 +66,10 @@ Welcome to my GitHub profile! I’m currently pursuing B.Tech in Computer Engine
 
 ## 📊 GitHub Stats  
 
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilkamble11&show_icons=true&theme=github_dark&hide_border=true)  
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sahilkamble11&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkamble11&layout=compact&theme=github_dark&hide_border=true)
 
